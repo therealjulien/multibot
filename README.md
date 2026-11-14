@@ -1,4 +1,4 @@
-# Mischief Moderator
+# MMultibot
 
 An all-in-one discord.js bot with moderation, games, a virtual economy, and community tools.
 
